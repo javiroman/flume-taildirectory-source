@@ -1,5 +1,5 @@
-flume-ng-extends
-================
+flume-taildirectory-source
+===========================
 
 Source of Flume NG for tailing files in a directory
 
